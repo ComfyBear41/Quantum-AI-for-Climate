@@ -33,21 +33,21 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
+ - Full Name: Gilberto Juárez Rangel
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 Team Member 2:
- - Full Name: 
+ - Full Name: Fernando Torres Leal
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 Team Member 3:
- - Full Name: 
+ - Full Name: Daniela Rodríguez Trujillo
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 Team Member 4:
- - Full Name: 
+ - Full Name: María José Díaz Sánchez
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
