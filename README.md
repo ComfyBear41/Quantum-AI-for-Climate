@@ -25,7 +25,8 @@ _**Include all necessary information only as per the given format.**_
   - YouTube recording of project description - [link](https://youtu.be/ka2RgUYo83c?si=MUb_dwTVfP1FV_47)
 
 ## Project Submission:
-All information in this section will be considered for project submission and judging.
+
+In this project we were capable of training a physics informed quantum neural network to learn hurricane patterns, this required extensive research on the physics involved on the hurricanes patterns, how neural networks are applied and how derivatives can be taken from the quantum circuit for to calculate the PDE loss. We also understood the strengths and flaws of both regular neural network as well as for phsics informed cases. This can be improved with further investigation increasing the complexity of the model, using real quantum hardware and adding regularization techniques to avoid finding trivial solutions of the PDE.
 
 Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US ET**.
 
