@@ -71,7 +71,7 @@ In order to run the code, there is two main files:
       - *best_params_0_5.pth*
       - *test_cost_0_5.pth*
       - *train_cost_0_5.pth*
-- *hurricane_figures.ipynb* takes the PTH files produced by the hurricane_prediction.ipynb code and generates the figures of prediction and loss convergence.
+- *hurricane_figures.ipynb* takes the PTH files produced by the hurricane_prediction.ipynb code and generates the figures of prediction, loss convergence and the absolute error for the gamma = 0.05 case.
 
 ### Project Presentation Deck:
 Google drive link for the presentation and the report: https://drive.google.com/drive/folders/1wyCkONSvsQp8L3w8FrJSkA5D-xP8vKSa?usp=sharing
