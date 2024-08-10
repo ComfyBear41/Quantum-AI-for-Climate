@@ -34,26 +34,25 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1:
  - Full Name: Gilberto Juárez Rangel
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Womanium Program Enrollment ID: WQ24-We1QtfYzM4wwcjz
 
 Team Member 2:
  - Full Name: Fernando Torres Leal
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Womanium Program Enrollment ID: WQ24-hQrhuys3Gc3rwb4
 
 
 Team Member 3:
  - Full Name: Daniela Rodríguez Trujillo
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Womanium Program Enrollment ID: WQ24-Z3FZEDvDFt72CyE
 
 
 Team Member 4:
  - Full Name: María José Díaz Sánchez
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Womanium Program Enrollment ID: WQ24-KDQqwzUtQOsrq1P
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+In this project we were capable of training a physics informed quantum neural network to learn hurricane patterns, this required extensive research on the physics involved on the hurricanes patterns, how neural networks are applied and how derivatives can be taken from the quantum circuit for to calculate the PDE loss. We also understood the strengths and flaws of both regular neural network as well as for phsics informed cases. This can be improved with further investigation increasing the complexity of the model, using real quantum hardware and adding regularization techniques to avoid finding trivial solutions of the PDE.
 
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
