@@ -56,5 +56,5 @@ Team Member 4:
 In this project we were capable of training a physics informed quantum neural network to learn hurricane patterns, this required extensive research on the physics involved on the hurricanes patterns, how neural networks are applied and how derivatives can be taken from the quantum circuit for to calculate the PDE loss. We also understood the strengths and flaws of both regular neural network as well as for phsics informed cases. This can be improved with further investigation increasing the complexity of the model, using real quantum hardware and adding regularization techniques to avoid finding trivial solutions of the PDE.
 
 ### Project Presentation Deck:
-_Link a 5min. presentation recording or deck here._
+Google drive link for the presentation and the report: https://drive.google.com/drive/folders/1wyCkONSvsQp8L3w8FrJSkA5D-xP8vKSa?usp=sharing
 
