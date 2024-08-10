@@ -57,7 +57,9 @@ In this project we were capable of training a physics informed quantum neural ne
 
 In order to run the code, there is two main files:
 - dataFranklin.csv contains the database
-- contain the python code for the implementation of the variational quantum circuit with PINN
+- hurricane_prediction.ipynb is a notebook that contain the python code for the implementation of the variational quantum circuit with PINN
+  - This code outputs three files with the optimized parameters and the cost for the training and test set as PTH files.
+- hurricane_figures.ipynb takes the PTH files produced by the hurricane_prediction.ipynb code and generates the figures of prediction and loss convergence.
 
 ### Project Presentation Deck:
 Google drive link for the presentation and the report: https://drive.google.com/drive/folders/1wyCkONSvsQp8L3w8FrJSkA5D-xP8vKSa?usp=sharing
