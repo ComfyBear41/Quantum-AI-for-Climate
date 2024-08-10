@@ -56,8 +56,8 @@ Team Member 4:
 In this project we were capable of training a physics informed quantum neural network to learn hurricane patterns, this required extensive research on the physics involved on the hurricanes patterns, how neural networks are applied and how derivatives can be taken from the quantum circuit for to calculate the PDE loss. We also understood the strengths and flaws of both regular neural network as well as for phsics informed cases. This can be improved with further investigation increasing the complexity of the model, using real quantum hardware and adding regularization techniques to avoid finding trivial solutions of the PDE.
 
 In order to run the code, there is two main files:
-- *dataFranklin.csv* contains the database
-- *hurricane_prediction.ipynb* is a notebook that contain the python code for the implementation of the variational quantum circuit with PINN
+- *dataFranklin.csv* contains the database.
+- *hurricane_prediction.ipynb* is a notebook that contain the python code for the implementation of the variational quantum circuit with PINN.
   - This code outputs three files with the optimized parameters and the cost for the training and test set as PTH files.
     - *best_params_mix2.pth*
     - *test_cost_mix2.pth*
